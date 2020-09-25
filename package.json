@@ -1,0 +1,15 @@
+{
+  "name": "hacker-earth-basics-of-in-out",
+  "version": "1.0.0",
+  "description": "Hacker Earth Basics of I/O",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Satyaki Roy",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
