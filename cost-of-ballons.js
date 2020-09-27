@@ -77,14 +77,3 @@ function main(input) {
     process.stdout.write(r.toString() + "\n"); // Writing output to STDOUT
   }
 }
-
-// 2
-// 9 6
-// 3
-// 1 1
-// 1 0
-// 0 0
-// 1 9
-// 2
-// 1 1
-// 0 1
